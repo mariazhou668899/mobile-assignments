@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- TextView for the text content -->
+
+    <TextView
+        android:id="@+id/textContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CDDC39"
+        android:backgroundTint="#FFB907"
+        android:padding="16dp"
+        android:text="@string/front_page_content"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/nextPageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#007bff"
+        android:textSize="24sp"
+        android:padding="20dp"
+        android:text="Next Page" />
+
+
+
+</RelativeLayout>
