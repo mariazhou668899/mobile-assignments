@@ -1,0 +1,11 @@
+<resources>
+    <!-- Primary branding color -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Dark variant of the primary branding color -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Accent color used for floating action buttons and other elements -->
+    <color name="colorAccent">#FF4081</color>
+</resources>
+
