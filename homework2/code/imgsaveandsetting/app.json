@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "imgsaveandsetting",
+    "slug": "snack-0f81f0b1-a1ba-4b9e-b10a-db7895339451",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This App is about simple image operations. It realizes these functions: \n1. Can run on iOS and Android system.  \n2. Login (local checking) and logout system.\n3. Upload image from local device and display image.\n4. Set image display size, and remember this setting until next setting.\n5. Save image locally.\n6. View saved images in the resource center.\n7. Delete saved images"
+  }
+}
